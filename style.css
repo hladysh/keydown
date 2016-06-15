@@ -1,0 +1,12 @@
+        .ball {
+            height: 50px;
+            width: 50px;
+            background: 50px;
+            box-shadow: 0 2px 2px black;
+            border-radius: 100% ;
+            position: absolute;
+            background-color: red;
+            top: 250px;
+            left: 250px;
+            transition: 0.5s;
+        }
